@@ -1,0 +1,40 @@
+<svg width="1024" height="768" xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="#fff" id="canvas_background" height="770" width="1026" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <ellipse ry="30.5" rx="86" id="svg_1" cy="56.921875" cx="506" stroke-width="1.5" stroke="#000" fill="#fff"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_3" y="63.421875" x="463" stroke-width="0" stroke="#000" fill="#000000">Начало</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_4" y2="120.421875" x2="504" y1="88.421875" x1="505" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke="#000" stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_6" y2="119.421875" x2="596" y1="118.421875" x1="420" stroke-width="1.5" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_10" y2="175.421787" x2="376.999936" y1="118.42176" x1="419.999956" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_11" y2="179.421789" x2="557.000021" y1="119.42176" x1="594.000039" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_12" y2="179.421789" x2="557.000021" y1="177.421788" x1="375.999935" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_13" y="156.421778" x="443.999968" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Ввод X</text>
+  <line stroke-linecap="undefined" stroke-linejoin="undefined" id="svg_14" y2="224.42181" x2="500.999995" y1="179.421789" x1="500.999995" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <path id="svg_19" d="m388.989978,330.804761l113.00004,-109.500051l113.00004,109.500051l-113.00004,109.500051l-113.00004,-109.500051z" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_20" y="336.421864" x="462.999976" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">X &gt;= 0</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_21" y2="330.421861" x2="750.000113" y1="331.421861" x1="614.000049" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_23" y2="330.421861" x2="750.000113" y1="458.421922" x1="749.000113" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <rect stroke="#000" id="svg_24" height="91.000043" width="368.000182" y="457.421921" x="565.000008" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_25" y="318.421855" x="649.000066" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">True</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_26" y="509.421946" x="621.000052" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Число положительное</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_27" y2="333.421862" x2="182.999843" y1="331.421861" x1="388.999941" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_29" y2="333.421862" x2="183.999844" y1="459.421922" x1="184.999844" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <rect id="svg_30" height="91.000043" width="374.000178" y="459.421922" x="25.999768" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_31" y="318.421856" x="255.999879" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">False</text>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_32" y="514.421949" x="76.999793" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Число отрицательное</text>
+  <ellipse ry="46.000022" rx="131.500063" id="svg_33" cy="661.422019" cx="524.500006" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <text xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_34" y="668.422022" x="486.999988" fill-opacity="null" stroke-opacity="null" stroke-width="0" stroke="#000" fill="#000000">Конец</text>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_35" y2="668.422022" x2="183.999844" y1="551.421966" x1="183.999844" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_36" y2="668.422022" x2="188.999846" y1="663.42202" x1="392.999943" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_37" y2="663.42202" x2="749.000113" y1="548.421965" x1="750.000113" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+  <line stroke-linecap="null" stroke-linejoin="null" id="svg_38" y2="665.422021" x2="746.000112" y1="664.42202" x1="657.000069" fill-opacity="null" stroke-opacity="null" stroke-width="1.5" stroke="#000" fill="none"/>
+ </g>
+</svg>
